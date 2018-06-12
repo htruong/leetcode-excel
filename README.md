@@ -1,2 +1,3 @@
 # leetcode-excel
-Solutions to leetcode problems, written in Excel programming language
+
+Solutions to leetcode problems, written in the Excel programming language (TM).
