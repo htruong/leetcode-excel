@@ -44,7 +44,7 @@ Sorting and Seaching:
 
 Math:
 
-- FizzBuzz
+- FizzBuzz - DONE
 - Count Primes
 - Power of Three
 - Roman to Integer
